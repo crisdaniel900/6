@@ -130,7 +130,7 @@ namespace Pelicula
     p1.AgregaActor(new Actor("Ryan Gosling", 1980));
     p1.AgregaActor(new Actor("Emma Stone", 1988));
 
-
+//
     
 
     p1.ImprimeActores();
